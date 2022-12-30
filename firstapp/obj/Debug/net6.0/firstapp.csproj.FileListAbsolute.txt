@@ -1,0 +1,15 @@
+E:\Akshobhya_Akshay\.NET\Practice\firstapp\bin\Debug\net6.0\firstapp.exe
+E:\Akshobhya_Akshay\.NET\Practice\firstapp\bin\Debug\net6.0\firstapp.deps.json
+E:\Akshobhya_Akshay\.NET\Practice\firstapp\bin\Debug\net6.0\firstapp.runtimeconfig.json
+E:\Akshobhya_Akshay\.NET\Practice\firstapp\bin\Debug\net6.0\firstapp.dll
+E:\Akshobhya_Akshay\.NET\Practice\firstapp\bin\Debug\net6.0\firstapp.pdb
+E:\Akshobhya_Akshay\.NET\Practice\firstapp\obj\Debug\net6.0\firstapp.csproj.AssemblyReference.cache
+E:\Akshobhya_Akshay\.NET\Practice\firstapp\obj\Debug\net6.0\firstapp.GeneratedMSBuildEditorConfig.editorconfig
+E:\Akshobhya_Akshay\.NET\Practice\firstapp\obj\Debug\net6.0\firstapp.AssemblyInfoInputs.cache
+E:\Akshobhya_Akshay\.NET\Practice\firstapp\obj\Debug\net6.0\firstapp.AssemblyInfo.cs
+E:\Akshobhya_Akshay\.NET\Practice\firstapp\obj\Debug\net6.0\firstapp.csproj.CoreCompileInputs.cache
+E:\Akshobhya_Akshay\.NET\Practice\firstapp\obj\Debug\net6.0\firstapp.dll
+E:\Akshobhya_Akshay\.NET\Practice\firstapp\obj\Debug\net6.0\refint\firstapp.dll
+E:\Akshobhya_Akshay\.NET\Practice\firstapp\obj\Debug\net6.0\firstapp.pdb
+E:\Akshobhya_Akshay\.NET\Practice\firstapp\obj\Debug\net6.0\firstapp.genruntimeconfig.cache
+E:\Akshobhya_Akshay\.NET\Practice\firstapp\obj\Debug\net6.0\ref\firstapp.dll
