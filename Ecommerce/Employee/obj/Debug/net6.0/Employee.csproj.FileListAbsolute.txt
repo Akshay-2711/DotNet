@@ -1,0 +1,12 @@
+E:\Akshobhya_Akshay\.NET\Practice\Ecommerce\Employee\bin\Debug\net6.0\Employee.deps.json
+E:\Akshobhya_Akshay\.NET\Practice\Ecommerce\Employee\bin\Debug\net6.0\Employee.dll
+E:\Akshobhya_Akshay\.NET\Practice\Ecommerce\Employee\bin\Debug\net6.0\Employee.pdb
+E:\Akshobhya_Akshay\.NET\Practice\Ecommerce\Employee\obj\Debug\net6.0\Employee.csproj.AssemblyReference.cache
+E:\Akshobhya_Akshay\.NET\Practice\Ecommerce\Employee\obj\Debug\net6.0\Employee.GeneratedMSBuildEditorConfig.editorconfig
+E:\Akshobhya_Akshay\.NET\Practice\Ecommerce\Employee\obj\Debug\net6.0\Employee.AssemblyInfoInputs.cache
+E:\Akshobhya_Akshay\.NET\Practice\Ecommerce\Employee\obj\Debug\net6.0\Employee.AssemblyInfo.cs
+E:\Akshobhya_Akshay\.NET\Practice\Ecommerce\Employee\obj\Debug\net6.0\Employee.csproj.CoreCompileInputs.cache
+E:\Akshobhya_Akshay\.NET\Practice\Ecommerce\Employee\obj\Debug\net6.0\Employee.dll
+E:\Akshobhya_Akshay\.NET\Practice\Ecommerce\Employee\obj\Debug\net6.0\refint\Employee.dll
+E:\Akshobhya_Akshay\.NET\Practice\Ecommerce\Employee\obj\Debug\net6.0\Employee.pdb
+E:\Akshobhya_Akshay\.NET\Practice\Ecommerce\Employee\obj\Debug\net6.0\ref\Employee.dll
