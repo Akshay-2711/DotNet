@@ -1,0 +1,12 @@
+E:\Akshobhya_Akshay\.NET\Practice\GraphicsSolution\Drawing\bin\Debug\net6.0\Drawing.deps.json
+E:\Akshobhya_Akshay\.NET\Practice\GraphicsSolution\Drawing\bin\Debug\net6.0\Drawing.dll
+E:\Akshobhya_Akshay\.NET\Practice\GraphicsSolution\Drawing\bin\Debug\net6.0\Drawing.pdb
+E:\Akshobhya_Akshay\.NET\Practice\GraphicsSolution\Drawing\obj\Debug\net6.0\Drawing.csproj.AssemblyReference.cache
+E:\Akshobhya_Akshay\.NET\Practice\GraphicsSolution\Drawing\obj\Debug\net6.0\Drawing.GeneratedMSBuildEditorConfig.editorconfig
+E:\Akshobhya_Akshay\.NET\Practice\GraphicsSolution\Drawing\obj\Debug\net6.0\Drawing.AssemblyInfoInputs.cache
+E:\Akshobhya_Akshay\.NET\Practice\GraphicsSolution\Drawing\obj\Debug\net6.0\Drawing.AssemblyInfo.cs
+E:\Akshobhya_Akshay\.NET\Practice\GraphicsSolution\Drawing\obj\Debug\net6.0\Drawing.csproj.CoreCompileInputs.cache
+E:\Akshobhya_Akshay\.NET\Practice\GraphicsSolution\Drawing\obj\Debug\net6.0\Drawing.dll
+E:\Akshobhya_Akshay\.NET\Practice\GraphicsSolution\Drawing\obj\Debug\net6.0\refint\Drawing.dll
+E:\Akshobhya_Akshay\.NET\Practice\GraphicsSolution\Drawing\obj\Debug\net6.0\Drawing.pdb
+E:\Akshobhya_Akshay\.NET\Practice\GraphicsSolution\Drawing\obj\Debug\net6.0\ref\Drawing.dll
