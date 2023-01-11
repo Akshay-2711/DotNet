@@ -1,0 +1,18 @@
+@using BOL;
+
+@{
+    ViewData["Title"] = "Employee Page";
+}
+
+<div>
+    <h2>Employee Details</h2>
+    @{
+        Employee theEmployee=ViewData["empbydept"] as Employee;
+        <p> Id: @theEmployee.Id</p>
+        <p> First Name:  <b> <u></u>@theEmployee.FirstName</b></p>
+        <p> Last Name: @theEmployee.LastName</p>
+        <p> Address: @theEmployee.Address</p>
+    
+
+    }
+</div> 

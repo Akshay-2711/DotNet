@@ -1,0 +1,17 @@
+E:\Akshobhya_Akshay\.NET\Practice\Day10\EStore\BLL\obj\Debug\net6.0\BLL.csproj.AssemblyReference.cache
+E:\Akshobhya_Akshay\.NET\Practice\Day10\EStore\BLL\obj\Debug\net6.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+E:\Akshobhya_Akshay\.NET\Practice\Day10\EStore\BLL\obj\Debug\net6.0\BLL.AssemblyInfoInputs.cache
+E:\Akshobhya_Akshay\.NET\Practice\Day10\EStore\BLL\obj\Debug\net6.0\BLL.AssemblyInfo.cs
+E:\Akshobhya_Akshay\.NET\Practice\Day10\EStore\BLL\obj\Debug\net6.0\BLL.csproj.CoreCompileInputs.cache
+E:\Akshobhya_Akshay\.NET\Practice\Day10\EStore\BLL\bin\Debug\net6.0\BLL.deps.json
+E:\Akshobhya_Akshay\.NET\Practice\Day10\EStore\BLL\bin\Debug\net6.0\BLL.dll
+E:\Akshobhya_Akshay\.NET\Practice\Day10\EStore\BLL\bin\Debug\net6.0\BLL.pdb
+E:\Akshobhya_Akshay\.NET\Practice\Day10\EStore\BLL\bin\Debug\net6.0\BOL.dll
+E:\Akshobhya_Akshay\.NET\Practice\Day10\EStore\BLL\bin\Debug\net6.0\DAL.dll
+E:\Akshobhya_Akshay\.NET\Practice\Day10\EStore\BLL\bin\Debug\net6.0\DAL.pdb
+E:\Akshobhya_Akshay\.NET\Practice\Day10\EStore\BLL\bin\Debug\net6.0\BOL.pdb
+E:\Akshobhya_Akshay\.NET\Practice\Day10\EStore\BLL\obj\Debug\net6.0\BLL.csproj.CopyComplete
+E:\Akshobhya_Akshay\.NET\Practice\Day10\EStore\BLL\obj\Debug\net6.0\BLL.dll
+E:\Akshobhya_Akshay\.NET\Practice\Day10\EStore\BLL\obj\Debug\net6.0\refint\BLL.dll
+E:\Akshobhya_Akshay\.NET\Practice\Day10\EStore\BLL\obj\Debug\net6.0\BLL.pdb
+E:\Akshobhya_Akshay\.NET\Practice\Day10\EStore\BLL\obj\Debug\net6.0\ref\BLL.dll
