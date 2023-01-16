@@ -1,0 +1,15 @@
+F:\IACSD Data\DotNet\dotnet\C#pract\EndModuleMVC\DAL\obj\Debug\net7.0\DAL.csproj.AssemblyReference.cache
+F:\IACSD Data\DotNet\dotnet\C#pract\EndModuleMVC\DAL\obj\Debug\net7.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+F:\IACSD Data\DotNet\dotnet\C#pract\EndModuleMVC\DAL\obj\Debug\net7.0\DAL.AssemblyInfoInputs.cache
+F:\IACSD Data\DotNet\dotnet\C#pract\EndModuleMVC\DAL\obj\Debug\net7.0\DAL.AssemblyInfo.cs
+F:\IACSD Data\DotNet\dotnet\C#pract\EndModuleMVC\DAL\obj\Debug\net7.0\DAL.csproj.CoreCompileInputs.cache
+F:\IACSD Data\DotNet\dotnet\C#pract\EndModuleMVC\DAL\bin\Debug\net7.0\DAL.deps.json
+F:\IACSD Data\DotNet\dotnet\C#pract\EndModuleMVC\DAL\bin\Debug\net7.0\DAL.dll
+F:\IACSD Data\DotNet\dotnet\C#pract\EndModuleMVC\DAL\bin\Debug\net7.0\DAL.pdb
+F:\IACSD Data\DotNet\dotnet\C#pract\EndModuleMVC\DAL\bin\Debug\net7.0\BOL.dll
+F:\IACSD Data\DotNet\dotnet\C#pract\EndModuleMVC\DAL\bin\Debug\net7.0\BOL.pdb
+F:\IACSD Data\DotNet\dotnet\C#pract\EndModuleMVC\DAL\obj\Debug\net7.0\DAL.csproj.CopyComplete
+F:\IACSD Data\DotNet\dotnet\C#pract\EndModuleMVC\DAL\obj\Debug\net7.0\DAL.dll
+F:\IACSD Data\DotNet\dotnet\C#pract\EndModuleMVC\DAL\obj\Debug\net7.0\refint\DAL.dll
+F:\IACSD Data\DotNet\dotnet\C#pract\EndModuleMVC\DAL\obj\Debug\net7.0\DAL.pdb
+F:\IACSD Data\DotNet\dotnet\C#pract\EndModuleMVC\DAL\obj\Debug\net7.0\ref\DAL.dll

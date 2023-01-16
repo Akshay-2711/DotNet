@@ -1,0 +1,1 @@
+create table product(id integer primary key auto_increment,pname varchar(100),price decimal(9,2),pbrand varchar(100));

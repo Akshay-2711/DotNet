@@ -95,10 +95,10 @@ public class DataAccess
 
         try{
             con.Open();
-            string query=$"insert into employees(firstName,lastName,email,address) values('{emp.FirstName}','{emp.LastName}','{emp.Email}','{emp.Address}')";
+            string query=$"insert into employees(firstName,lastName,email,address,password,deptid) values('{emp.FirstName}','{emp.LastName}','{emp.Email}','{emp.Address}','{emp.Password}','{emp.DeptId}')";
             MySqlCommand command=new MySqlCommand(query,con);
-            MySqlDataReader reader=command.ExecuteReader();
-            //command.ExecuteNonQuery();
+           // MySqlDataReader reader=command.ExecuteReader();
+            command.ExecuteNonQuery();
             
         }catch(Exception e){    
             Console.WriteLine(e);

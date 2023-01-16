@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestMVC", "TestMVC\TestMVC.csproj", "{74857C2B-4928-4B4F-9B35-57796924B8BF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BOL", "BOL\BOL.csproj", "{BA034E4D-4111-44C0-BB20-F1632CED77DF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAL", "DAL\DAL.csproj", "{C14FEC6E-AA43-4994-9C47-D4EE926194C0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{74857C2B-4928-4B4F-9B35-57796924B8BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74857C2B-4928-4B4F-9B35-57796924B8BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74857C2B-4928-4B4F-9B35-57796924B8BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74857C2B-4928-4B4F-9B35-57796924B8BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BA034E4D-4111-44C0-BB20-F1632CED77DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA034E4D-4111-44C0-BB20-F1632CED77DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA034E4D-4111-44C0-BB20-F1632CED77DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA034E4D-4111-44C0-BB20-F1632CED77DF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C14FEC6E-AA43-4994-9C47-D4EE926194C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C14FEC6E-AA43-4994-9C47-D4EE926194C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C14FEC6E-AA43-4994-9C47-D4EE926194C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C14FEC6E-AA43-4994-9C47-D4EE926194C0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

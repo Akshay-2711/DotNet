@@ -1,0 +1,17 @@
+@using Test.BOL;
+@{
+    ViewData["Title"] = "Index Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Product Catalog</h1>
+    @{
+        List<Product> prod=(List<Product>)ViewData["products"];
+            <ol>
+                @foreach(Product p in prod)
+                {
+                    <li><a href="product/detail/@p.Id">@p.Pname</a></li>
+                }
+            </ol>
+    }
+</div>
