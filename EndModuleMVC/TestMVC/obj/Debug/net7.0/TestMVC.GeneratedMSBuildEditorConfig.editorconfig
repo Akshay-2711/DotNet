@@ -9,45 +9,53 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = TestMVC
 build_property.RootNamespace = TestMVC
-build_property.ProjectDir = F:\IACSD Data\DotNet\dotnet\C#pract\EndModuleMVC\TestMVC\
+build_property.ProjectDir = F:\IACSD Data\DotNet\dotnet\C#pract\DotNet\EndModuleMVC\TestMVC\
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = F:\IACSD Data\DotNet\dotnet\C#pract\EndModuleMVC\TestMVC
+build_property.MSBuildProjectDirectory = F:\IACSD Data\DotNet\dotnet\C#pract\DotNet\EndModuleMVC\TestMVC
 build_property._RazorSourceGeneratorDebug = 
 
-[F:/IACSD Data/DotNet/dotnet/C\#pract/EndModuleMVC/TestMVC/Views/Home/Index.cshtml]
+[F:/IACSD Data/DotNet/dotnet/C\#pract/DotNet/EndModuleMVC/TestMVC/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/IACSD Data/DotNet/dotnet/C\#pract/EndModuleMVC/TestMVC/Views/Home/Privacy.cshtml]
+[F:/IACSD Data/DotNet/dotnet/C\#pract/DotNet/EndModuleMVC/TestMVC/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/IACSD Data/DotNet/dotnet/C\#pract/EndModuleMVC/TestMVC/Views/Product/Detail.cshtml]
+[F:/IACSD Data/DotNet/dotnet/C\#pract/DotNet/EndModuleMVC/TestMVC/Views/Product/Detail.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxEZXRhaWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/IACSD Data/DotNet/dotnet/C\#pract/EndModuleMVC/TestMVC/Views/Product/Index.cshtml]
+[F:/IACSD Data/DotNet/dotnet/C\#pract/DotNet/EndModuleMVC/TestMVC/Views/Product/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/IACSD Data/DotNet/dotnet/C\#pract/EndModuleMVC/TestMVC/Views/Shared/Error.cshtml]
+[F:/IACSD Data/DotNet/dotnet/C\#pract/DotNet/EndModuleMVC/TestMVC/Views/Product/Insert.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxJbnNlcnQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/IACSD Data/DotNet/dotnet/C\#pract/DotNet/EndModuleMVC/TestMVC/Views/Product/Insertproduct.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxJbnNlcnRwcm9kdWN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/IACSD Data/DotNet/dotnet/C\#pract/DotNet/EndModuleMVC/TestMVC/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/IACSD Data/DotNet/dotnet/C\#pract/EndModuleMVC/TestMVC/Views/Shared/_ValidationScriptsPartial.cshtml]
+[F:/IACSD Data/DotNet/dotnet/C\#pract/DotNet/EndModuleMVC/TestMVC/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/IACSD Data/DotNet/dotnet/C\#pract/EndModuleMVC/TestMVC/Views/_ViewImports.cshtml]
+[F:/IACSD Data/DotNet/dotnet/C\#pract/DotNet/EndModuleMVC/TestMVC/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/IACSD Data/DotNet/dotnet/C\#pract/EndModuleMVC/TestMVC/Views/_ViewStart.cshtml]
+[F:/IACSD Data/DotNet/dotnet/C\#pract/DotNet/EndModuleMVC/TestMVC/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/IACSD Data/DotNet/dotnet/C\#pract/EndModuleMVC/TestMVC/Views/Shared/_Layout.cshtml]
+[F:/IACSD Data/DotNet/dotnet/C\#pract/DotNet/EndModuleMVC/TestMVC/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-qvixfqvfwz

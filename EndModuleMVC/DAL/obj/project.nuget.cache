@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "IvZfozu50mZIbW+CU2NEFH9vr83GdgbmZopiXD09P3+EvNFio5uWA21FHq59fSTvupfIjA3tBaKLTf6XSirwUA==",
+  "dgSpecHash": "YQ8OIhoywG4e+FnaPv6AZb1BDkRbJekmQZRBD2C5fCAeDNsDtJkwndpkBKltldQ26MvzF5fD7ZZkobZMZjj65Q==",
   "success": true,
-  "projectFilePath": "F:\\IACSD Data\\DotNet\\dotnet\\C#pract\\EndModuleMVC\\DAL\\DAL.csproj",
+  "projectFilePath": "F:\\IACSD Data\\DotNet\\dotnet\\C#pract\\DotNet\\EndModuleMVC\\DAL\\DAL.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Smart\\.nuget\\packages\\google.protobuf\\3.19.4\\google.protobuf.3.19.4.nupkg.sha512",
     "C:\\Users\\Smart\\.nuget\\packages\\k4os.compression.lz4\\1.2.6\\k4os.compression.lz4.1.2.6.nupkg.sha512",

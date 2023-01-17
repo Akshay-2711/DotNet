@@ -78,14 +78,39 @@ public class DataAccess
 
     }
 
-    public static void InsertProduct(Product p)
+    public static bool InsertProduct(int id,string pname,double price,string pbrand)
+    {
+        MySqlConnection con=new MySqlConnection(constring);
+        
+        try{
+            con.Open();
+           // "insert into product values(id,pname,price,pbrand);
+            string query=$"insert into product values('{id}','{pname}','{price}','{pbrand}')";
+            MySqlCommand cmd = new MySqlCommand(query,con);
+            int row=cmd.ExecuteNonQuery();
+            if(row==0)
+            {
+                return false;
+            }
+        }catch(Exception e)
+        {
+            Console.WriteLine(e);
+        }
+        finally{
+            con.Close();
+        }
+        return true;
+    }
+
+    public static void Delete(int id)
     {
         MySqlConnection con=new MySqlConnection(constring);
         try{
             con.Open();
-            string query=$"insert into product values('{p.Pname}','{p.Price}','{p.Pbrand}') ";
-            MySqlCommand cmd = new MySqlCommand(query,con);
+            string query="delete from product where id="+id;
+            MySqlCommand cmd=new MySqlCommand(query,con);
             cmd.ExecuteNonQuery();
+
         }catch(Exception e)
         {
             Console.WriteLine(e);

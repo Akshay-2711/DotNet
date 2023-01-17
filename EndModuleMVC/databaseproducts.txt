@@ -1,1 +1,3 @@
-create table product(id integer primary key auto_increment,pname varchar(100),price decimal(9,2),pbrand varchar(100));
+create table product(id integer primary key ,pname varchar(100),price decimal(9,2),pbrand varchar(100));
+insert into product values (1,"Headphones",1500,"Boat");
+insert into product values (2,"Mobile",15000,"Xiaomi");

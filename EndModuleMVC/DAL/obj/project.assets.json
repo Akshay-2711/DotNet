@@ -914,11 +914,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\IACSD Data\\DotNet\\dotnet\\C#pract\\EndModuleMVC\\DAL\\DAL.csproj",
+      "projectUniqueName": "F:\\IACSD Data\\DotNet\\dotnet\\C#pract\\DotNet\\EndModuleMVC\\DAL\\DAL.csproj",
       "projectName": "DAL",
-      "projectPath": "F:\\IACSD Data\\DotNet\\dotnet\\C#pract\\EndModuleMVC\\DAL\\DAL.csproj",
+      "projectPath": "F:\\IACSD Data\\DotNet\\dotnet\\C#pract\\DotNet\\EndModuleMVC\\DAL\\DAL.csproj",
       "packagesPath": "C:\\Users\\Smart\\.nuget\\packages\\",
-      "outputPath": "F:\\IACSD Data\\DotNet\\dotnet\\C#pract\\EndModuleMVC\\DAL\\obj\\",
+      "outputPath": "F:\\IACSD Data\\DotNet\\dotnet\\C#pract\\DotNet\\EndModuleMVC\\DAL\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Smart\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -933,8 +933,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "F:\\IACSD Data\\DotNet\\dotnet\\C#pract\\EndModuleMVC\\BOL\\BOL.csproj": {
-              "projectPath": "F:\\IACSD Data\\DotNet\\dotnet\\C#pract\\EndModuleMVC\\BOL\\BOL.csproj"
+            "F:\\IACSD Data\\DotNet\\dotnet\\C#pract\\DotNet\\EndModuleMVC\\BOL\\BOL.csproj": {
+              "projectPath": "F:\\IACSD Data\\DotNet\\dotnet\\C#pract\\DotNet\\EndModuleMVC\\BOL\\BOL.csproj"
             }
           }
         }

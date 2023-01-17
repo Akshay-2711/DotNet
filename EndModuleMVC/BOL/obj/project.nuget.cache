@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "xA4DaXQoaHKRZcIzangrZhRlRdkNADbFbdvdhgJfx3YrozCjIMfG3V1KO4BwK0qxXgdzk6BbmXvJESPnk/eM/A==",
+  "dgSpecHash": "VVj+JDcaW9fMD5zezknYVbtQnbrYCZLKCwKnaJo3V80k3xm58y5XJGT4JPLW8QnxVCmzccnpuAAWI2nRKZNFjQ==",
   "success": true,
-  "projectFilePath": "F:\\IACSD Data\\DotNet\\dotnet\\C#pract\\EndModuleMVC\\BOL\\BOL.csproj",
+  "projectFilePath": "F:\\IACSD Data\\DotNet\\dotnet\\C#pract\\DotNet\\EndModuleMVC\\BOL\\BOL.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -30,10 +30,24 @@ public class ProductController : Controller
         return View();
     }
 
-    public IActionResult Insert(Product p)
+[HttpGet]
+    public IActionResult Insertproduct()
     {
-        DataAccess.InsertProduct(p);
-        this.ViewData["products"]=p;
-        return RedirectAction("Insertproduct");
+        return View();
     }
+
+[HttpPost]
+    public IActionResult Insertproduct(string id,string pname,string price,string pbrand)
+    {   
+        DataAccess.InsertProduct(int.Parse(id),pname,double.Parse(price),pbrand);
+        return RedirectToAction("Index","Home");
+    }
+
+    [HttpDelete]
+    public IActionResult Delete(int id)
+    {
+        DataAccess.Delete(id);
+        return View();
+    }
+
 }

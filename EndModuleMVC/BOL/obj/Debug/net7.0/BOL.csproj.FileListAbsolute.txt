@@ -10,3 +10,15 @@ F:\IACSD Data\DotNet\dotnet\C#pract\EndModuleMVC\BOL\obj\Debug\net7.0\BOL.dll
 F:\IACSD Data\DotNet\dotnet\C#pract\EndModuleMVC\BOL\obj\Debug\net7.0\refint\BOL.dll
 F:\IACSD Data\DotNet\dotnet\C#pract\EndModuleMVC\BOL\obj\Debug\net7.0\BOL.pdb
 F:\IACSD Data\DotNet\dotnet\C#pract\EndModuleMVC\BOL\obj\Debug\net7.0\ref\BOL.dll
+F:\IACSD Data\DotNet\dotnet\C#pract\DotNet\EndModuleMVC\BOL\bin\Debug\net7.0\BOL.deps.json
+F:\IACSD Data\DotNet\dotnet\C#pract\DotNet\EndModuleMVC\BOL\bin\Debug\net7.0\BOL.dll
+F:\IACSD Data\DotNet\dotnet\C#pract\DotNet\EndModuleMVC\BOL\bin\Debug\net7.0\BOL.pdb
+F:\IACSD Data\DotNet\dotnet\C#pract\DotNet\EndModuleMVC\BOL\obj\Debug\net7.0\BOL.csproj.AssemblyReference.cache
+F:\IACSD Data\DotNet\dotnet\C#pract\DotNet\EndModuleMVC\BOL\obj\Debug\net7.0\BOL.GeneratedMSBuildEditorConfig.editorconfig
+F:\IACSD Data\DotNet\dotnet\C#pract\DotNet\EndModuleMVC\BOL\obj\Debug\net7.0\BOL.AssemblyInfoInputs.cache
+F:\IACSD Data\DotNet\dotnet\C#pract\DotNet\EndModuleMVC\BOL\obj\Debug\net7.0\BOL.AssemblyInfo.cs
+F:\IACSD Data\DotNet\dotnet\C#pract\DotNet\EndModuleMVC\BOL\obj\Debug\net7.0\BOL.csproj.CoreCompileInputs.cache
+F:\IACSD Data\DotNet\dotnet\C#pract\DotNet\EndModuleMVC\BOL\obj\Debug\net7.0\BOL.dll
+F:\IACSD Data\DotNet\dotnet\C#pract\DotNet\EndModuleMVC\BOL\obj\Debug\net7.0\refint\BOL.dll
+F:\IACSD Data\DotNet\dotnet\C#pract\DotNet\EndModuleMVC\BOL\obj\Debug\net7.0\BOL.pdb
+F:\IACSD Data\DotNet\dotnet\C#pract\DotNet\EndModuleMVC\BOL\obj\Debug\net7.0\ref\BOL.dll

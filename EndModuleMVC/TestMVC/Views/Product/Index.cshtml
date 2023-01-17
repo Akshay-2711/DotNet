@@ -5,12 +5,21 @@
 
 <div class="text-center">
     <h1 class="display-4">Product Catalog</h1>
+    <div>
+        <a href="product/Insertproduct">
+        <button class="btn btn-success">Add Product</button></a>
+    </div>
+    <div>
+        <a href="product/Delete">
+        <button class="btn btn-warning">Delete Product</button></a>
+    </div>
     @{
         List<Product> prod=(List<Product>)ViewData["products"];
             <ol>
                 @foreach(Product p in prod)
                 {
                     <li><a href="product/detail/@p.Id">@p.Pname</a></li>
+                    
                 }
             </ol>
     }

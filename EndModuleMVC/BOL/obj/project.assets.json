@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\IACSD Data\\DotNet\\dotnet\\C#pract\\EndModuleMVC\\BOL\\BOL.csproj",
+      "projectUniqueName": "F:\\IACSD Data\\DotNet\\dotnet\\C#pract\\DotNet\\EndModuleMVC\\BOL\\BOL.csproj",
       "projectName": "BOL",
-      "projectPath": "F:\\IACSD Data\\DotNet\\dotnet\\C#pract\\EndModuleMVC\\BOL\\BOL.csproj",
+      "projectPath": "F:\\IACSD Data\\DotNet\\dotnet\\C#pract\\DotNet\\EndModuleMVC\\BOL\\BOL.csproj",
       "packagesPath": "C:\\Users\\Smart\\.nuget\\packages\\",
-      "outputPath": "F:\\IACSD Data\\DotNet\\dotnet\\C#pract\\EndModuleMVC\\BOL\\obj\\",
+      "outputPath": "F:\\IACSD Data\\DotNet\\dotnet\\C#pract\\DotNet\\EndModuleMVC\\BOL\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Smart\\AppData\\Roaming\\NuGet\\NuGet.Config"
