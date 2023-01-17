@@ -40,14 +40,14 @@ public class ProductController : Controller
     public IActionResult Insertproduct(string id,string pname,string price,string pbrand)
     {   
         DataAccess.InsertProduct(int.Parse(id),pname,double.Parse(price),pbrand);
-        return RedirectToAction("Index","Home");
+        return Redirect("Index");
     }
 
-    [HttpDelete]
+    
     public IActionResult Delete(int id)
     {
         DataAccess.Delete(id);
-        return View();
+        return RedirectToAction("Index","Home");
     }
 
 }

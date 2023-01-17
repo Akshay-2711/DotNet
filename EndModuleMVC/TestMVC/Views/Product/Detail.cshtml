@@ -12,14 +12,18 @@
                 <th>Product Name</th>
                 <th>Price</th>
                 <th>Brand</th>
+                <th></th>
                 
             </tr>
             <tbody>
+               
                 <tr>
                     <td>@p.Id</td>
                     <td>@p.Pname</td>
                     <td>@p.Price</td>
                     <td>@p.Pbrand</td>
+                     <td><a href="/product/delete/@p.Id"><button class="btn btn-warning">Delete</button></a></td>
+
                 </tr>
             </tbody>
         </table>

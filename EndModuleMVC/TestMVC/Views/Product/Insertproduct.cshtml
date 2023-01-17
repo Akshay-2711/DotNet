@@ -3,13 +3,7 @@
     ViewData["Title"] = "Index Page";
 }
 
-<h1 class="display-4">Vehicle Management System</h1>
-<a asp-area="" asp-controller="Home" asp-action="Index"><button>Home
-</button> </a>
-<a asp-area="" asp-controller="Product" asp-action="Index"><button>Product List
-</button> </a>
-</div>
-</div>
+
 <div>
     
         <form method="post" action="Insertproduct" class="form-control">
@@ -19,17 +13,20 @@
             </tr>
             <tr>
                 <td>Product Name</td>
-                <td><input type="text" name="nm" id="nm" /></td>
+                <td><input type="text" name="pname" id="nm" /></td>
             </tr>
             <tr>
                 <td>Product Price</td>
-                <td><input type="text" name="pr" id="pr" /></td>
+                <td><input type="text" name="price" id="pr"/></td>
             </tr>
             <tr>
                 <td>Product Brand</td>
-                <td><input type="text" name="brand" id="brand" /></td>
+                <td><input type="text" name="pbrand" id="brand" /></td>
             </tr>
-        <button type="submit" class="btn btn-success">Add Data</button>
+           
+
+            <button type="submit" class="btn btn-success">Add Data</button>
+            
         </form>
     
 </div>
